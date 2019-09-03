@@ -90,7 +90,7 @@ color:white;}
     white-space: nowrap;
     overflow-x: hidden;
     text-overflow: ellipsis;
-    color: #ffffff !important;}
+    color: #00819D !important;}
 .workspace__primary_view_footer{
 background:#222222 !important
 }
@@ -355,7 +355,7 @@ div.c-message:hover {
     color: white !important;
 }
 a {
-    color: #ffffff!important;
+    color: #00819D!important;
 }
 .comment .app_preview_link_slug,
 .comment .internal_member_link,
@@ -630,14 +630,14 @@ p-search_filter__date:first-child {
     border-bottom: 1px solid #5F5F5F !important;
 }
 .p-search_filter__more_link {
-    color: #ffffff;
+    color: #00819D;
     font-size: 13px;
     margin-top: 4px;
 }
 .c-link--button:active,
 .c-link--button:focus,
 .c-link--button:hover {
-    color: #ffffff;
+    color: #00819D;
     outline: none;
     text-decoration: underline;
 }
@@ -688,11 +688,14 @@ p-search_filter__date:first-child {
     font-size: 14px !important;
 }
 
-.c-message--light .c-message__sender .c-message__sender_link{
+.c-message--light .c-message__sender {
  color: #ffffff !important;
  text-transform: capitalize;
 }
 
+.c-message__sender_link {
+color: #00819D !important;
+}
 
 
 .light_theme ts-message .message_content .message_sender {
@@ -749,7 +752,7 @@ p-search_filter__date:first-child {
     color: white !important;
 }
 .p-file_details__share_channel {
-    color: #ffffff;
+    color: #00819D;
 }
 .p-file_details__share_divider hr {
     border-color: #4B4B4B;
@@ -758,10 +761,10 @@ p-search_filter__date:first-child {
     border-bottom: 1px solid #4B4B4B;
 }
 .p-file_details__header_back:hover {
-    color: #ffffff;
+    color: #00819D;
 }
 .c-deprecated_button--link{
-    color: #ffffff !important;
+    color: #00819D !important;
 }
 .p-file_list__file.c-pillow_file_container--full_width:hover {
     border-bottom: 1px solid #4B4B4B;
@@ -820,7 +823,7 @@ input.c-input_select__filter_input {
 .c-link--button:active,
 .c-link--button:focus,
 .c-link--button:hover {
-    color: #ffffff !important;
+    color: #00819D !important;
     border: none !important;
 }
 .c-message_group .c-message_group__header:focus .c-channel_name,
@@ -829,7 +832,7 @@ input.c-input_select__filter_input {
 .c-message_group:hover .c-message_group__header .c-channel_name,
 .c-message_group:hover .c-message_group__header .c-channel_name__team_name,
 .c-message_group:hover .c-message_group__header .c-message_group__header_date {
-    color: #ffffff !important;
+    color: #00819D !important;
     border: none !important;
 }
 .p-search_filter__date:first-child {
@@ -853,7 +856,7 @@ a:hover {
     text-decoration: none !important;
 }
 .c-search__input_box__clear {
-    color: #ffffff !important;
+    color: #00819D !important;
 }
 .c-search_modal .c-search__input_box__clear {
     border-right: 1px solid #4B4B4B !important;
@@ -905,7 +908,7 @@ code {
     font-weight:bold;
 }
 .c-link--button {
-    color: #ffffff !important;
+    color: #00819D !important;
 }
 .p-file_upload_dialog__section input.c-input_text:focus {
     background: transparent !important;
@@ -1172,7 +1175,7 @@ color:#ffffff !important
         }
      
          a.c-message__sender_link{
-            color: #ffffff !important ;
+            color: #00819D !important ;
        }
         .ql-editor[aria-label]{
             color: white !important;
@@ -1232,7 +1235,7 @@ color:#ffffff !important
                     background: black !important;
                 }
                 .p-threads_flexpane__header_permalink, .p-threads_flexpane__header_channel_name{
-                    color: #ffffff!important;
+                    color: #00819D!important;
                 }
                 .c-message .c-button--primary{
                     background-color: #008952;
