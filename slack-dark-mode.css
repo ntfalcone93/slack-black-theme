@@ -1003,7 +1003,7 @@ a.file_download_link:hover {
    font-weight:700;
 }
 .p-channel_sidebar {
-    border-right: 1px solid #464646 !mportant;}
+    border-right: 1px solid #464646 !important;}
 .p-search_filter__date_readout {
     color: #ffb28a !important;
 }
