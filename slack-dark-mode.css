@@ -700,9 +700,9 @@ p-search_filter__date:first-child {
     text-transform: capitalize;
     font-weight: 700 !important;
 }
-/*.p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted) .p-channel_sidebar__name {
+.p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted) .p-channel_sidebar__name {
     font-weight: bolder !important;
-}*/
+}
 .p-download_item__container .p-download_item__name_row{
     color:white !important
 }
@@ -999,8 +999,8 @@ a.file_download_link:hover {
     height: 20px;
     overflow: hidden;
     line-height: 16px;
-    font-size: 17px;
-   font-weight:500;
+    font-size: 14px;
+   font-weight:700;
 }
 .p-channel_sidebar {
     border-right: 1px solid #464646 !mportant;}
