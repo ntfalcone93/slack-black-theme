@@ -90,7 +90,7 @@ color:white;}
     white-space: nowrap;
     overflow-x: hidden;
     text-overflow: ellipsis;
-    color: #FFFFFF !important;}
+    color: #ffffff !important;}
 .workspace__primary_view_footer{
 background:#222222 !important
 }
@@ -355,7 +355,7 @@ div.c-message:hover {
     color: white !important;
 }
 a {
-    color: #FFFFFF!important;
+    color: #ffffff!important;
 }
 .comment .app_preview_link_slug,
 .comment .internal_member_link,
@@ -630,14 +630,14 @@ p-search_filter__date:first-child {
     border-bottom: 1px solid #5F5F5F !important;
 }
 .p-search_filter__more_link {
-    color: #FFFFFF;
+    color: #ffffff;
     font-size: 13px;
     margin-top: 4px;
 }
 .c-link--button:active,
 .c-link--button:focus,
 .c-link--button:hover {
-    color: #FFFFFF;
+    color: #ffffff;
     outline: none;
     text-decoration: underline;
 }
@@ -689,14 +689,14 @@ p-search_filter__date:first-child {
 }
 
 .c-message--light .c-message__sender .c-message__sender_link{
- color: #000000 !important;
+ color: #ffffff !important;
  text-transform: capitalize;
 }
 
 
 
 .light_theme ts-message .message_content .message_sender {
-    color:  #FFFFFF !important;
+    color:  #ffffff !important;
     text-transform: capitalize;
     font-weight: 700 !important;
 }
@@ -749,7 +749,7 @@ p-search_filter__date:first-child {
     color: white !important;
 }
 .p-file_details__share_channel {
-    color: #FFFFFF;
+    color: #ffffff;
 }
 .p-file_details__share_divider hr {
     border-color: #4B4B4B;
@@ -758,10 +758,10 @@ p-search_filter__date:first-child {
     border-bottom: 1px solid #4B4B4B;
 }
 .p-file_details__header_back:hover {
-    color: #FFFFFF;
+    color: #ffffff;
 }
 .c-deprecated_button--link{
-    color: #FFFFFF !important;
+    color: #ffffff !important;
 }
 .p-file_list__file.c-pillow_file_container--full_width:hover {
     border-bottom: 1px solid #4B4B4B;
@@ -820,7 +820,7 @@ input.c-input_select__filter_input {
 .c-link--button:active,
 .c-link--button:focus,
 .c-link--button:hover {
-    color: #FFFFFF !important;
+    color: #ffffff !important;
     border: none !important;
 }
 .c-message_group .c-message_group__header:focus .c-channel_name,
@@ -829,7 +829,7 @@ input.c-input_select__filter_input {
 .c-message_group:hover .c-message_group__header .c-channel_name,
 .c-message_group:hover .c-message_group__header .c-channel_name__team_name,
 .c-message_group:hover .c-message_group__header .c-message_group__header_date {
-    color: #FFFFFF !important;
+    color: #ffffff !important;
     border: none !important;
 }
 .p-search_filter__date:first-child {
@@ -853,7 +853,7 @@ a:hover {
     text-decoration: none !important;
 }
 .c-search__input_box__clear {
-    color: #FFFFFF !important;
+    color: #ffffff !important;
 }
 .c-search_modal .c-search__input_box__clear {
     border-right: 1px solid #4B4B4B !important;
@@ -905,7 +905,7 @@ code {
     font-weight:bold;
 }
 .c-link--button {
-    color: #FFFFFF !important;
+    color: #ffffff !important;
 }
 .p-file_upload_dialog__section input.c-input_text:focus {
     background: transparent !important;
@@ -1161,7 +1161,7 @@ color:white !important;
     color: #ffb088 !important;
 }
 .c-message__sender{
-color:#FFFFFF !important
+color:#ffffff !important
 }
     .c-dialog__footer .c-button {
         background-color: #2ead5c;
@@ -1172,7 +1172,7 @@ color:#FFFFFF !important
         }
      
          a.c-message__sender_link{
-            color: #FFFFFF !important ;
+            color: #ffffff !important ;
        }
         .ql-editor[aria-label]{
             color: white !important;
@@ -1232,7 +1232,7 @@ color:#FFFFFF !important
                     background: black !important;
                 }
                 .p-threads_flexpane__header_permalink, .p-threads_flexpane__header_channel_name{
-                    color: #ff0000!important;
+                    color: #ffffff!important;
                 }
                 .c-message .c-button--primary{
                     background-color: #008952;
@@ -1302,7 +1302,7 @@ color:#FFFFFF !important
                                                 border-right: 1px solid #000;}
 
                                         .c-channel_name__text--inline{
-                                        color: #FFFFFF!important;
+                                        color: #ffffff!important;
                                     }
                                     .p-threads_view__divider_label {
                                         background: #323232; color:white;}
