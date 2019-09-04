@@ -2607,6 +2607,6 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     color: rgba(234, 233, 230, 0.5);
 }
 .c-select_options_list__wrapper {
-	background-color: #303030
+	background-color: #303030;
 }
 /**/
