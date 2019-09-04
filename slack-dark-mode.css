@@ -9,38 +9,6 @@ font-family: 'Lato', sans-serif !important;
     color: white !important;
     background: #626262 !important;
     border: 1px solid black !important;}
-/* This is for the app picker that pops up when you enter in a "/" */
-.p-app_action_picker__input_wrapper {
-    background: #303030;
-}
-.p-app_action_picker .c-select_options_list__group_option, .p-app_action_picker .c-select_options_list__option {
-	background: #303030;
-}
-.c-texty_input.c-texty_input--use_focus_ring.focus {
-    box-shadow: rgb(60, 64, 66) 0px 0px 0px 1px, rgba(23, 121, 163, 0.3) 0px 0px 0px 5px;
-    border-top-color: transparent;
-    border-right-color: transparent;
-    border-bottom-color: transparent;
-    border-left-color: transparent;
-}
-.p-app_action_picker_item__text {
-    color: white;
-}
-.p-app_action_picker_item__text--secondary {
-    color: rgba(255, 255, 255, 0.7);
-}
-.p-app_action_picker {
-    background-color: #303030;
-    box-shadow: rgb(60, 64, 66) 0px 0px 0px 1px, rgba(0, 0, 0, 0.12) 0px 4px 12px 0px;
-}
-.p-app_action_picker .c-select_options_list__option .c-select_options_list__option--active {
-    background-color: rgb(18, 100, 163);
-    color: rgb(255, 255, 255);
-}
-.c-select_options_list__group_header {
-    color: rgba(234, 233, 230, 0.5);
-}
-/**/
 .p-classic_nav__model__title__name--dim {
   
     color: #636363 !important;
@@ -2607,3 +2575,35 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     .p-member_profile_card {
     box-shadow: 0 0 0 1px rgba(0,0,0,.08), 0 4px 12px 0 rgba(0,0,0,.08);
     background: #333;}
+ /* This is for the app picker that pops up when you enter in a "/" */
+.p-app_action_picker__input_wrapper {
+    background: #303030;
+}
+.p-app_action_picker .c-select_options_list__group_option, .p-app_action_picker .c-select_options_list__option {
+	background: #303030;
+}
+.c-texty_input.c-texty_input--use_focus_ring.focus {
+    box-shadow: rgb(60, 64, 66) 0px 0px 0px 1px, rgba(23, 121, 163, 0.3) 0px 0px 0px 5px;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+}
+.p-app_action_picker_item__text {
+    color: white;
+}
+.p-app_action_picker_item__text--secondary {
+    color: rgba(255, 255, 255, 0.7);
+}
+.p-app_action_picker {
+    background-color: #303030;
+    box-shadow: rgb(60, 64, 66) 0px 0px 0px 1px, rgba(0, 0, 0, 0.12) 0px 4px 12px 0px;
+}
+.c-select_options_list__option--active {
+    background-color: rgb(18, 100, 163) !important;
+    color: rgb(255, 255, 255);
+}
+.c-select_options_list__group_header {
+    color: rgba(234, 233, 230, 0.5);
+}
+/**/
