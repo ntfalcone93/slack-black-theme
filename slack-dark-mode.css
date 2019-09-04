@@ -40,6 +40,12 @@ font-family: 'Lato', sans-serif !important;
 .c-select_options_list__group_header {
     color: rgba(234, 233, 230, 0.5);
 }
+.c-select_options_list__option .c-select_options_list__option--active .c-select_options_list__group_option {
+	background-color: red;
+}
+.app_action_picker_select_listbox {
+	background-color: red;
+}
 /**/
 .p-classic_nav__model__title__name--dim {
   
