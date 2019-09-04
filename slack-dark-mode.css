@@ -10,8 +10,24 @@ font-family: 'Lato', sans-serif !important;
     background: #626262 !important;
     border: 1px solid black !important;}
 /* This is for the app picker that pops up when you enter in a "/" */
+.p-app_action_picker__input_wrapper {
+    background: #303030;
+}
 .p-app_action_picker .c-select_options_list__group_option, .p-app_action_picker .c-select_options_list__option {
 	background: #303030;
+}
+.c-texty_input.c-texty_input--use_focus_ring.focus {
+    box-shadow: rgb(60, 64, 66) 0px 0px 0px 1px, rgba(23, 121, 163, 0.3) 0px 0px 0px 5px;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+}
+.p-app_action_picker_item__text {
+    color: white;
+}
+.p-app_action_picker_item__text--secondary {
+    color: rgba(255, 255, 255, 0.7);
 }
 /**/
 .p-classic_nav__model__title__name--dim {
