@@ -1995,7 +1995,7 @@ color:white;}
     color: #ffffff;
     font-weight: 700;}
     .c-message--sli_highlight .c-message__label__icon {
-    color: #ffd452;}
+    color: rgba(0, 169, 206, 0.7);}
     .c-message--pinned, .c-message--sli_highlight:not(.c-message--sli_highlight_negative), .c-message--starred {
     background: rgb(52, 54, 56);
     border: 1px solid #edad37;
@@ -2610,9 +2610,6 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 	background-color: #303030;
 }
 .c-mrkdwn__code .c-mrkdwn__code--light {
-	color: #FFB300 !important;
-}
-.c-texty_input--multi_line {
 	color: #FFB300 !important;
 }
 /**/
