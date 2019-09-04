@@ -9,8 +9,13 @@ font-family: 'Lato', sans-serif !important;
     color: white !important;
     background: #626262 !important;
     border: 1px solid black !important;}
+/* This is for the app picker that pops up when you enter in a "/" */
 .p-app_action_picker {
-	background: #ff0000
+	background: #000000
+}
+.p-app_action_picker_item {
+    color: inherit!important;
+    background: #000000;
 }
 .p-classic_nav__model__title__name--dim {
   
