@@ -33,18 +33,12 @@ font-family: 'Lato', sans-serif !important;
     background-color: #303030;
     box-shadow: rgb(60, 64, 66) 0px 0px 0px 1px, rgba(0, 0, 0, 0.12) 0px 4px 12px 0px;
 }
-.c-select_options_list__option--active {
+.p-app_action_picker .c-select_options_list__option .c-select_options_list__option--active {
     background-color: rgb(18, 100, 163);
     color: rgb(255, 255, 255);
 }
 .c-select_options_list__group_header {
     color: rgba(234, 233, 230, 0.5);
-}
-.c-select_options_list__option .c-select_options_list__option--active .c-select_options_list__group_option {
-	background-color: red;
-}
-.app_action_picker_select_listbox {
-	background-color: red;
 }
 /**/
 .p-classic_nav__model__title__name--dim {
