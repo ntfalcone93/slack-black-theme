@@ -2624,5 +2624,5 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 }
 /* Placeholder colors */
 .ql-placeholder .c-texty_input__placeholder {
-	color: rgba(255,255,255,0.6) !important;
+	color: #ff0000 !important;
 }
