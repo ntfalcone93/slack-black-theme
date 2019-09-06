@@ -2606,10 +2606,18 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 .c-select_options_list__group_header {
     color: rgba(234, 233, 230, 0.5);
 }
-.c-select_options_list__wrapper {
-	background-color: #303030;
+/**/
+/* User profile pop up */
+.p-member_profile_name__link, .p-member_profile_name__link:hover {
+    color: rgb(255, 255, 255);
 }
-.c-mrkdwn__code .c-mrkdwn__code--light {
-	color: #FFB300 !important;
+.p-member_profile_name__subtitle {
+	color: rgba(255,255,255,0.9);
+}
+.p-member_profile_field__label {
+	color: rgba(255,255,255,0.9);
+}
+.p-member_profile_field__value {
+	color: rgba(255,255,255,0.9);
 }
 /**/
