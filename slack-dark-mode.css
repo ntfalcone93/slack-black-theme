@@ -2627,6 +2627,9 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 	color: #FFB300;
 }
 /* Placeholder colors */
+.ql-placeholder .c-texty_input__placeholder {
+	color: rgba(255,255,255,0.9);
+}
 .c-texty_input--single_line .ql-editor, .c-texty_input--single_line .ql-placeholder {
 	color: rgba(255,255,255,0.9);
 }
