@@ -2579,6 +2579,10 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 .p-app_action_picker__input_wrapper {
     background: #303030;
 }
+.c-texty_autocomplete--commands .c-texty_autocomplete__group {
+	background: #303030;
+	color:rgba(255,255,255,1);
+}
 .p-app_action_picker .c-select_options_list__group_option, .p-app_action_picker .c-select_options_list__option {
 	background: #303030;
 }
