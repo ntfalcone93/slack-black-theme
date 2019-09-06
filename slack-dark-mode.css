@@ -2609,7 +2609,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 /**/
 /* User profile pop up */
 .p-member_profile_name__link, .p-member_profile_name__link:hover {
-    color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255) !important;
 }
 .p-member_profile_name__subtitle {
 	color: rgba(255,255,255,0.9);
